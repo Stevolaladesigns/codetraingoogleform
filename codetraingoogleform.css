@@ -1,0 +1,109 @@
+body{
+    background-color: lightcyan;
+    margin-left: 350px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-right: 350px;
+    font-family: montserrat ;
+    
+}
+ img {
+    display: block;
+  margin-left: 350px;
+  
+ }
+
+
+div {
+    border:  1px solid rgba(163, 160, 160, o.3);
+    border-radius: 9px;
+    display: block;
+    background-color: white;
+    width: 600px;
+    margin: 9px ;
+    padding: 12px 0px 10px 23px;
+}
+
+hr{
+    width: 620px;
+    position: relative;
+    left: -21px;
+    border: none;
+    border-bottom: 1px solid rgba(161, 161, 161, 0.3);
+}
+.header{
+    border-top: 10px solid rgb(113, 113, 246);
+    border-radius: 11px;
+}
+
+input[type=text], input[type=number], input[type=email]{
+    border: none;
+    margin: 40px 0 0 0;
+    width: 300px;
+    border-bottom: solid 1px;
+    border-color: rgba(155, 155, 155, 0.3);
+}
+
+#heading{
+    font-size: xx-large;
+}
+
+input[type=submit]{
+    border: solid 1px rgb(71, 71, 235);
+    width: 100px;
+    height: 30px;
+    border-radius: 4px;
+    color: white;
+    background-color: blue;
+}
+
+#footer{
+    color: rgba(77, 77, 77, 0.5);
+    width: 600px;
+}
+
+#kin{
+    font-size: 14px;
+}
+
+footer{
+    margin-bottom: 0px;
+    width: 700px;
+    margin-left: -10%;
+}
+
+.ending{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+#spa-div{
+    width: 150px;
+    height: 0px;
+    background-color:green;
+}
+.bar{
+    width: 0px;
+    height: 0px;
+}
+footer p{
+    text-align: center;
+    font-size: 11px;
+}
+footer a{
+    color: black;
+}
+#footer-text{
+    font-size: 20px;
+}
+#Google{
+    font-size: 12px;
+}
+#phone-text{
+    text-align: left;
+    padding-right: 10px;
+    font-size: 13px;
+}
